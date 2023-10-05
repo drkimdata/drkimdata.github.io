@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Dr Kim Data
+email: hello@drkimdata.com
+description: Data science education and consulting> # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "drkimdata.com" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: kimberlyfessel
+github_username: kimfetti
 
 # Build settings
 markdown: kramdown
