@@ -7,6 +7,8 @@ url: "drkimdata.com" # the base hostname & protocol for your site
 
 twitter_username: kimberlyfessel
 github_username: kimfetti
+youtube_username: KimberlyFessel
+linkedin_username: kimberlyfessel
 
 # Build settings
 markdown: kramdown
